@@ -1,6 +1,6 @@
  👋 Hi, I’m @Abdikafi-Adan
 
-Code Institute student with a focus on JavaScript, React, and UX/UI design in Figma. 
+Code Institute student focusing on MERN-STACK with Next.jS and UX/UI design in Figma. 
 Passionate about building engaging user experiences and continuously learning to refine my skills. 
 Currently looking for opportunities to gain hands-on experience and grow as a developer. 
 Eager to contribute to dynamic teams and make an impact!
